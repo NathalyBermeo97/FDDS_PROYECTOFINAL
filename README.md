@@ -6,6 +6,7 @@ Proyecto finalizado utilizando la metodologia SCRUM paso a paso acerca de un sit
 
 ### Tesis
 La carpeta contiene el informe tecnico completo del desarrollo del sitio web Polinews.
+[Informe Técnico](https://github.com/NathalyBermeo97/FDDS_PROYECTOFINAL/tree/main/Tesis)
 
 ------------
 
@@ -38,7 +39,7 @@ Links de las grabaciones de las dailymeetings que se ha realizo para realizar el
 
 ### Video de manual de usuario
 Link del manual de usuario donde se realiza una explicacion completa del uso del sitio web: 
-https://youtu.be/IdJoBydX4Vc
+[Manual de usuario](https://youtu.be/IdJoBydX4Vc)
 
 ------------
 
@@ -46,7 +47,7 @@ https://youtu.be/IdJoBydX4Vc
 
 ### Video de manual técnico
 Link del manual tecnico donde se indica de foma tecnica la realizacion del proyecto: 
-https://youtu.be/IdJoBydX4Vc
+[Manual Técnico](https://youtu.be/IdJoBydX4Vc)
 
 ------------
 
