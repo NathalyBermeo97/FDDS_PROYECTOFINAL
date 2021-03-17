@@ -2,7 +2,7 @@
 Links de los videos de reuniones diarias:
 https://youtu.be/VDWWu1_aCws
 https://youtu.be/8zUNvWsbaBM
-https://www.youtube.c om/watch?v=IpGBi5TSSug
+https://www.youtube.com/watch?v=IpGBi5TSSug
 https://www.youtube.com/watch?v=2nuvuskzxgI
 https://www.youtube.com/watch?v=aOPGd0LqsTE
 https://www.youtube.com/watch?v=i99khongyZk
