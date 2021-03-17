@@ -3,9 +3,6 @@
 
 Proyecto finalizado utilizando la metodologia SCRUM paso a paso acerca de un sitio web que ofrece noticias relevantes de la Escuela Politecnica Nacional ,ademas cuenta con algunas secciones de eventos, ofertas de trabajo , cursos y calendario para la comunidad politecnica.
 
-------------
-
-
 
 ### Tesis
 La carpeta contiene el informe tecnico completo del desarrollo del sitio web Polinews.
