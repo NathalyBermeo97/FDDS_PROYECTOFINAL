@@ -40,7 +40,7 @@ Links de las grabaciones de las daily meetings que se ha realizo para desarrolla
 
 ### Video de manual de usuario
 Link del manual de usuario donde se realiza una explicación completa del uso del sitio web: 
-[Manual de usuario](https://youtu.be/IdJoBydX4Vc)
+[Manual de usuario](https://youtu.be/0tqxlYefalw)
 
 ------------
 
