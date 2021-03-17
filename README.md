@@ -1,6 +1,6 @@
 
+## PROYECTO FINAL -SITIO WEB POLINEWS 
 
-##PROYECTO FINAL -SITIO WEB POLINEWS 
 Proyecto finalizado utilizando la metodologia SCRUM paso a paso acerca de un sitio web que ofrece noticias relevantes de la Escuela Politecnica Nacional ,ademas cuenta con algunas secciones de eventos, ofertas de trabajo , cursos y calendario para la comunidad politecnica.
 
 ------------
@@ -40,7 +40,7 @@ Links de las grabaciones de las dailymeetings que se ha realizo para realizar el
 
 
 ### Video de manual de usuario
-Link del manual de usuario donde se realiza una explicacion completa del uso del sitio web.
+Link del manual de usuario donde se realiza una explicacion completa del uso del sitio web: 
 https://youtu.be/IdJoBydX4Vc
 
 ------------
@@ -48,7 +48,7 @@ https://youtu.be/IdJoBydX4Vc
 
 
 ### Video de manual técnico
-Link del manual tecnico donde se indica de foma tecnica la realizacion del proyecto.
+Link del manual tecnico donde se indica de foma tecnica la realizacion del proyecto: 
 https://youtu.be/IdJoBydX4Vc
 
 ------------
