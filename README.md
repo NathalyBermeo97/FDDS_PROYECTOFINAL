@@ -14,6 +14,7 @@ La carpeta contiene el informe tecnico completo del desarrollo del sitio web Pol
 
 ### proyecto-semestre-2020b-grupo-4-polinews
 La carpeta continene el codigo realizado con React.
+[Código de sitio web](https://github.com/NathalyBermeo97/FDDS_PROYECTOFINAL/tree/main/proyecto-semestre-2020b-grupo-4-polinews-pagina-de-noticias-f9d6ec9c8f6b9f05ed1842495f9efb8c5bff805a/poli-news)
 
 ------------
 
