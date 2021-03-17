@@ -12,3 +12,8 @@ https://youtu.be/zu2HlUwpcjo
 https://youtu.be/ZnRYjFEiqzM
 
 Videos de Manuales:
+manual de usuario:
+https://us04web.zoom.us/j/74018451998?pwd=djBVeG9QYWljOUE5VlJFb0poNklVUT09
+
+manual tecnico
+https://youtu.be/IdJoBydX4Vc
