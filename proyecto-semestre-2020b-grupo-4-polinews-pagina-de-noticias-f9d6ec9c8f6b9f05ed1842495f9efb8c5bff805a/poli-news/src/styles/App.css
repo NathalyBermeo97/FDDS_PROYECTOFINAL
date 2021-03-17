@@ -1,0 +1,96 @@
+@import "~antd/dist/antd.css";
+
+body {
+  background-color: #2b3448;
+  color: #ffbf0f;
+}
+
+hr {
+  height: 0.5px;
+  width: 50%;
+  background-color: #00a6ff;
+  border-color: #00a6ff;
+}
+
+.my-img {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+
+.my-title {
+  color: #ffbf0f;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.my-text {
+  color: aliceblue;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.text-title {
+  color: #ffbf0f;
+  margin-right: 2.5%;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.my-btn{
+    color: aliceblue;
+    background-color: #ffbf0f;
+    font-size: 20px;
+    width: fit-content;
+}
+
+.my-footer {
+  background-color: #151f33;
+  text-align: center;
+}
+
+.text-footer {
+  color: aliceblue;
+}
+
+.contacts {
+  background-color: #134977;
+}
+
+.socialMedia {
+  color: #ffbf0f;
+  margin-top: 5%;
+  width: 100%;
+  text-align: center;
+}
+.socialMedia a {
+  color: #ffbf0f;
+}
+.socialMedia hr {
+  height: 0.5px;
+  width: 100%;
+  background-color: #ffbf0f;
+  border-color: #ffbf0f;
+}
+
+.square {
+  align-items: center;
+  border: 2.5px solid #00a6ff;
+  margin: 4% 20% 4% 20%;
+}
+
+.square-two {
+  align-items: center;
+  border: 2.5px dashed #ffbf0f;
+  margin: 5%;
+}
+
+.img-card {
+  width: 100%;
+}
+.my-card {
+  width: 300;
+  text-align: "center";
+  background-color: #151f33;
+}
