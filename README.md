@@ -22,7 +22,7 @@ La carpeta continene el código realizado con la librería React y la librería 
 
 
 ### Videos con reuniones de seguimiento
-Links de las grabaciones de las daily meetings que se ha realizo para realizar el proyecto propuesto.
+Links de las grabaciones de las daily meetings que se ha realizo para desarrollar el proyecto propuesto.
 - https://youtu.be/VDWWu1_aCws
 - https://youtu.be/8zUNvWsbaBM
 - https://www.youtube.com/watch?v=IpGBi5TSSug
