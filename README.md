@@ -1,5 +1,5 @@
 
-## PROYECTO FINAL -SITIO WEB POLINEWS 
+#                                                   PROYECTO FINAL -SITIO WEB POLINEWS 
 
 Proyecto finalizado utilizando la metodologia SCRUM paso a paso acerca de un sitio web que ofrece noticias relevantes de la Escuela Politecnica Nacional ,ademas cuenta con algunas secciones de eventos, ofertas de trabajo , cursos y calendario para la comunidad politecnica.
 
@@ -13,7 +13,7 @@ La carpeta contiene el informe tecnico completo del desarrollo del sitio web Pol
 
 
 ### proyecto-semestre-2020b-grupo-4-polinews
-La carpeta continene el codigo realizado con React.
+La carpeta continene el codigo realizado con la libreria React y la libreria Antd.
 [Código de sitio web](https://github.com/NathalyBermeo97/FDDS_PROYECTOFINAL/tree/main/proyecto-semestre-2020b-grupo-4-polinews-pagina-de-noticias-f9d6ec9c8f6b9f05ed1842495f9efb8c5bff805a/poli-news)
 
 ------------
